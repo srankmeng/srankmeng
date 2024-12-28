@@ -4,7 +4,7 @@ My name is Jaturong Duangchaiysuk. I am a fullstack software developer with over
 
 I love soccer, manga and beer
 
-## Languages
+## Main Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -59,14 +59,12 @@ I love soccer, manga and beer
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=srankmeng&rank=-C,-B,-?&margin-w=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srankmeng&layout=compact&hide=python,c%2B%2B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srankmeng&layout=compact&exclude_repo=odoo-training,FreeCAD&theme=tokyonight)
 
-![Overview](https://github-readme-stats.vercel.app/api?username=srankmeng&show_icons=true&locale=en)
+![Overview](https://github-readme-stats.vercel.app/api?username=srankmeng&rank_icon=github&theme=tokyonight)
 
-## Contact me
+## Blogs
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
 [![medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)][medium]
 
-[linkedin]: https://www.linkedin.com/in/jaturong-duangchaiyusuk-7a83b6133/
 [medium]: https://medium.com/@srank123
