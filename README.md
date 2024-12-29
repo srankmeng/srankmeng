@@ -4,6 +4,8 @@ My name is Jaturong Duangchaiysuk. I am a fullstack software developer with over
 
 I love soccer, manga and beer
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3E2FF7FF&multiline=true&lines=Hello+all++.+.+.+.+.+;Thanks+for+visit)](https://git.io/typing-svg)
+
 ## Main Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
